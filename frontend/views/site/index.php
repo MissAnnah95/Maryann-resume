@@ -299,7 +299,7 @@ use yii\helpers\Url;
 
         <div class="section-title">
           <h2>Testimonials</h2>
-          <p></p>
+          <p>Created and delivered a website on deadline.</p>
          
         </div>
 
