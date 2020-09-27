@@ -18,12 +18,12 @@ use yii\helpers\Url;
 
         <div class="section-title">
           <h2>About</h2>
-          <p>I am a passionate full stack developer and I love designing different web apps and mobile apps.</p>
+          <p>I am a passionate full stack developer who likes adventuring into the fintech industry.</p>
         </div>
 
         <div class="row">
           <div class="col-lg-4" data-aos="fade-right">
-            <img src="<?= Yii::$app->request->baseUrl ?>/img/maryannprofile.jpg" class="img-fluid" alt="">
+            <img src="<?= Yii::$app->request->baseUrl ?>/img/mprofile.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>UI/UX Designer &amp; Web Developer.</h3>
@@ -135,7 +135,7 @@ use yii\helpers\Url;
             <h3 class="resume-title">Sumary</h3>
             <div class="resume-item pb-0">
               <h4>Maryann M Kamau</h4>
-              <p><em>Innovative and self-driven full-stack developer who likes designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.</em></p>
+              <p><em>Innovative and self-driven full-stack developer who likes designing and developing applications that are considered to be innovative within the financial industry.</em></p>
               <ul>
                 <li>Nairobi, Kenya</li>
                 <li>+254 711 849 765</li>
@@ -299,7 +299,7 @@ use yii\helpers\Url;
 
         <div class="section-title">
           <h2>Testimonials</h2>
-          <p>Created and delivered a website on deadline.</p>
+          <p>Created and delivered a great peer to peer lending app.</p>
          
         </div>
 
